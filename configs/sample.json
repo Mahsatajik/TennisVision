@@ -1,0 +1,46 @@
+{
+  "players": [
+    "Player A",
+    "Player B"
+  ],
+  "near_player": 0,
+  "court": [
+    {
+      "x": 0.348,
+      "y": 0.281
+    },
+    {
+      "x": 0.645,
+      "y": 0.281
+    },
+    {
+      "x": 0.735,
+      "y": 0.792
+    },
+    {
+      "x": 0.27,
+      "y": 0.792
+    }
+  ],
+  "detector": "classical",
+  "inference_fps": 4.0,
+  "pose_fps": 6.0,
+  "lost_seconds": 1.8,
+  "initial": {
+    "points": [
+      0,
+      0
+    ],
+    "games": [
+      0,
+      0
+    ],
+    "sets": [
+      0,
+      0
+    ],
+    "best_of": 3,
+    "tiebreak": false,
+    "tiebreak_target": 7
+  }
+}
